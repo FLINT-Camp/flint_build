@@ -1,0 +1,14 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "FLTI*Camp",
+    "description": "",
+    "home_page_url": "https://flint-camp.github.io/FLINT-Camp",
+    "feed_url": "https://flint-camp.github.io/FLINT-Camp/feed.json",
+    "user_comment": "",
+    "icon": "https://flint-camp.github.io/FLINT-Camp/media/website/FLINTHEADER-Renderer.png",
+    "author": {
+        "name": "FLINT*Camp"
+    },
+    "items": [
+    ]
+}
