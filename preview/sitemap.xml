@@ -1,17 +1,23 @@
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///Users/lee/Documents/WebseiteFLINT/flint_build/preview/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
-<loc>file://C:\Users\leavi\Documents\Publii\sites\flticamp\preview/</loc>
+<loc>file:///Users/lee/Documents/WebseiteFLINT/flint_build/preview/</loc>
 </url>
 <url>
-<loc>file://C:\Users\leavi\Documents\Publii\sites\flticamp\preview/details-zum-flticamp.html</loc>
+<loc>file:///Users/lee/Documents/WebseiteFLINT/flint_build/preview/details-zum-flticamp.html</loc>
+<lastmod>2019-05-28T13:17:09+02:00</lastmod>
 </url>
 <url>
-<loc>file://C:\Users\leavi\Documents\Publii\sites\flticamp\preview/mitmachen.html</loc>
+<loc>file:///Users/lee/Documents/WebseiteFLINT/flint_build/preview/mitmachen.html</loc>
+<lastmod>2019-05-24T11:48:34+02:00</lastmod>
 </url>
 <url>
-<loc>file://C:\Users\leavi\Documents\Publii\sites\flticamp\preview/open-call-fur-workshops.html</loc>
+<loc>file:///Users/lee/Documents/WebseiteFLINT/flint_build/preview/open-call-fur-workshops.html</loc>
+<lastmod>2019-05-28T15:26:26+02:00</lastmod>
 </url>
 <url>
-<loc>file://C:\Users\leavi\Documents\Publii\sites\flticamp\preview/workshops-und-aktivitaten.html</loc>
+<loc>file:///Users/lee/Documents/WebseiteFLINT/flint_build/preview/workshops-und-aktivitaten.html</loc>
+<lastmod>2019-05-24T11:48:57+02:00</lastmod>
 </url>
 </urlset>
