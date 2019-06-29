@@ -11,6 +11,20 @@
     },
     "items": [
         {
+            "id": "https://flint-camp.github.io/FLINT-Camp/laarby-arabisch.html",
+            "url": "https://flint-camp.github.io/FLINT-Camp/laarby-arabisch.html",
+            "title": "العربية / arabic",
+            "summary": " ",
+            "content_html": "<p><img class=\"post__image\" src=\"https://flint-camp.github.io/FLINT-Camp/media/posts/12/arab-translation-001.png\" alt=\"\" width=\"1240\" height=\"1754\"></p>\n<p><img class=\"post__image\" src=\"https://flint-camp.github.io/FLINT-Camp/media/posts/12/arab-translation-002.png\" alt=\"\" width=\"1240\" height=\"1754\"></p>",
+            "author": {
+                "name": "FLINT*Camp"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-06-29T16:04:04+02:00",
+            "date_modified": "2019-06-29T16:05:15+02:00"
+        },
+        {
             "id": "https://flint-camp.github.io/FLINT-Camp/german.html",
             "url": "https://flint-camp.github.io/FLINT-Camp/german.html",
             "title": "german",

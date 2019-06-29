@@ -1,21 +1,42 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>FLTI*Camp</title>
-    <link href="file:///Users/lee/Documents/WebseiteFLINT/flint_build/preview/feed.xml" rel="self" />
-    <link href="file:///Users/lee/Documents/WebseiteFLINT/flint_build/preview" />
-    <updated>2019-06-22T13:06:52+02:00</updated>
+    <link href="file://C:\Users\leavi\Documents\Publii\sites\flticamp\preview/feed.xml" rel="self" />
+    <link href="file://C:\Users\leavi\Documents\Publii\sites\flticamp\preview" />
+    <updated>2019-06-29T16:04:25+02:00</updated>
     <author>
         <name>FLINT*Camp</name>
     </author>
-    <id>file:///Users/lee/Documents/WebseiteFLINT/flint_build/preview</id>
+    <id>file://C:\Users\leavi\Documents\Publii\sites\flticamp\preview</id>
 
+    <entry>
+        <title>العربية / arabisch</title>
+        <author>
+            <name>FLINT*Camp</name>
+        </author>
+        <link href="file://C:\Users\leavi\Documents\Publii\sites\flticamp\preview/laarby-arabisch.html"/>
+        <id>file://C:\Users\leavi\Documents\Publii\sites\flticamp\preview/laarby-arabisch.html</id>
+
+        <updated>2019-06-29T16:04:04+02:00</updated>
+            <summary>
+                <![CDATA[
+                     
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p><img class="post__image" src="file://C:\Users\leavi\Documents\Publii\sites\flticamp\preview/media/posts/12/arab-translation-001.png" alt="" width="1240" height="1754"></p>
+<p><img class="post__image" src="file://C:\Users\leavi\Documents\Publii\sites\flticamp\preview/media/posts/12/arab-translation-002.png" alt="" width="1240" height="1754"></p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>german</title>
         <author>
             <name>FLINT*Camp</name>
         </author>
-        <link href="file:///Users/lee/Documents/WebseiteFLINT/flint_build/preview/german.html"/>
-        <id>file:///Users/lee/Documents/WebseiteFLINT/flint_build/preview/german.html</id>
+        <link href="file://C:\Users\leavi\Documents\Publii\sites\flticamp\preview/german.html"/>
+        <id>file://C:\Users\leavi\Documents\Publii\sites\flticamp\preview/german.html</id>
 
         <updated>2019-06-22T13:06:47+02:00</updated>
             <summary>
@@ -48,8 +69,8 @@
         <author>
             <name>FLINT*Camp</name>
         </author>
-        <link href="file:///Users/lee/Documents/WebseiteFLINT/flint_build/preview/french.html"/>
-        <id>file:///Users/lee/Documents/WebseiteFLINT/flint_build/preview/french.html</id>
+        <link href="file://C:\Users\leavi\Documents\Publii\sites\flticamp\preview/french.html"/>
+        <id>file://C:\Users\leavi\Documents\Publii\sites\flticamp\preview/french.html</id>
 
         <updated>2019-06-22T12:36:09+02:00</updated>
             <summary>
@@ -69,8 +90,8 @@
         <author>
             <name>FLINT*Camp</name>
         </author>
-        <link href="file:///Users/lee/Documents/WebseiteFLINT/flint_build/preview/spanish.html"/>
-        <id>file:///Users/lee/Documents/WebseiteFLINT/flint_build/preview/spanish.html</id>
+        <link href="file://C:\Users\leavi\Documents\Publii\sites\flticamp\preview/spanish.html"/>
+        <id>file://C:\Users\leavi\Documents\Publii\sites\flticamp\preview/spanish.html</id>
 
         <updated>2019-06-22T12:35:44+02:00</updated>
             <summary>
@@ -107,8 +128,8 @@
         <author>
             <name>FLINT*Camp</name>
         </author>
-        <link href="file:///Users/lee/Documents/WebseiteFLINT/flint_build/preview/turkce.html"/>
-        <id>file:///Users/lee/Documents/WebseiteFLINT/flint_build/preview/turkce.html</id>
+        <link href="file://C:\Users\leavi\Documents\Publii\sites\flticamp\preview/turkce.html"/>
+        <id>file://C:\Users\leavi\Documents\Publii\sites\flticamp\preview/turkce.html</id>
 
         <updated>2019-06-22T12:35:24+02:00</updated>
             <summary>
@@ -143,8 +164,8 @@
         <author>
             <name>FLINT*Camp</name>
         </author>
-        <link href="file:///Users/lee/Documents/WebseiteFLINT/flint_build/preview/self-conception.html"/>
-        <id>file:///Users/lee/Documents/WebseiteFLINT/flint_build/preview/self-conception.html</id>
+        <link href="file://C:\Users\leavi\Documents\Publii\sites\flticamp\preview/self-conception.html"/>
+        <id>file://C:\Users\leavi\Documents\Publii\sites\flticamp\preview/self-conception.html</id>
 
         <updated>2019-06-22T12:29:32+02:00</updated>
             <summary>

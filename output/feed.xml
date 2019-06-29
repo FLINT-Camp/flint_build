@@ -3,12 +3,33 @@
     <title>FLTI*Camp</title>
     <link href="https://flint-camp.github.io/FLINT-Camp/feed.xml" rel="self" />
     <link href="https://flint-camp.github.io/FLINT-Camp" />
-    <updated>2019-06-22T14:10:28+02:00</updated>
+    <updated>2019-06-29T16:23:31+02:00</updated>
     <author>
         <name>FLINT*Camp</name>
     </author>
     <id>https://flint-camp.github.io/FLINT-Camp</id>
 
+    <entry>
+        <title>العربية / arabic</title>
+        <author>
+            <name>FLINT*Camp</name>
+        </author>
+        <link href="https://flint-camp.github.io/FLINT-Camp/laarby-arabisch.html"/>
+        <id>https://flint-camp.github.io/FLINT-Camp/laarby-arabisch.html</id>
+
+        <updated>2019-06-29T16:05:15+02:00</updated>
+            <summary>
+                <![CDATA[
+                     
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p><img class="post__image" src="https://flint-camp.github.io/FLINT-Camp/media/posts/12/arab-translation-001.png" alt="" width="1240" height="1754"></p>
+<p><img class="post__image" src="https://flint-camp.github.io/FLINT-Camp/media/posts/12/arab-translation-002.png" alt="" width="1240" height="1754"></p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>german</title>
         <author>
